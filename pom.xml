@@ -76,7 +76,11 @@
                 <version>3.0.0-M5</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>testng.xml</suiteXmlFile>
+                        <suiteXmlFile>testng12.xml</suiteXmlFile>
+						 <suiteXmlFile>testng.xml</suiteXmlFile>
+						  <suiteXmlFile>ParallelExecutiontestng.xml</suiteXmlFile>
+						   <suiteXmlFile>listnertestng.xml</suiteXmlFile>
+						
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
